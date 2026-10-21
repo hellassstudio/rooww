@@ -1,0 +1,8 @@
+{
+  "name": "Roow AI",
+  "description": "Build anything. Your way. - Roow builds an open ecosystem for unrestricted vibecoding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
